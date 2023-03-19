@@ -6,7 +6,7 @@
 ## Установка
 
 ```bash
-$ composer require nartamomonov/otus_hw3_month_name
+$ composer require nartamonov997/otus-hw3-month-name
 ```
 
 ## Использование
